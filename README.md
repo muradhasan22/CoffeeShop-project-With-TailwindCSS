@@ -1,1 +1,1 @@
-# CoffeeShop-project-With-TailwindCSS
+# CoffeeShop-project-with-tailwindCSS
